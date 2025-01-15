@@ -1,0 +1,63 @@
+h1{
+    color:black
+    font-size: 20px;
+    font-family:times:Times New Roman;
+    text-align: center;
+}
+
+.casualinfo{
+    position: relative;
+        top: 335px;
+        right: 200px;
+        display: inline-block;
+        border: 5px solid lightblue;
+        height:400px;
+        width: 200px;
+        font-size: 20px;
+}
+
+.formalinfo{
+    position: relative;
+    left: 230px;
+    bottom: 500px;
+    display: inline-block;
+    border: 5px solid lightblue;
+    height:400px;
+    width: 200px;
+    font-size: 20px;
+}
+
+#image1{
+    position: relative;
+    bottom: 755px;
+    left: 515px;
+}
+
+.Formal {
+    position: relative;
+    left: 605px;
+    bottom: 745px;
+}
+
+#image2{
+    position: relative;
+    bottom: 1620px;
+    left: 1015px;
+}
+
+.Active {
+    position: relative;
+    left: 1100px;
+    bottom: 1600px;
+}
+
+.activeinfo{
+    position: relative;
+    left: 770px;
+    bottom: 1355px;
+    display: inline-block;
+    border: 5px solid lightblue;
+    height:400px;
+    width: 200px;
+    font-size: 20px;
+}

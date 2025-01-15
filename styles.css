@@ -1,0 +1,62 @@
+h1{
+    color:black
+    font-size: 20px;
+    font-family:times:Times New Roman;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(245, 224, 227);
+}
+.info {
+        position: relative;
+        bottom: 400px;
+        left: 80px;
+        display: inline-block;
+        border: 10px solid goldenrod;
+        height:400px;
+        width: 400px;
+        font-size: 20px;
+    }
+
+.image {
+    position: relative;
+    bottom: 300px;
+    left: 200px;
+}
+
+h2{
+    color: black;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family:times:Times New Roman;
+    text-align: right;
+    position: relative;
+    bottom: 400px;
+    right: 300px;
+}
+
+.image1{
+    position: relative;
+    bottom: 400px;
+    left: 715px;
+}
+
+.image2{
+    position: relative;
+    bottom: 400px;
+    left: 975px;
+}
+
+.image3{
+    position: relative;
+    bottom: 400px;
+    left: 750px;
+}
+
+.image4{
+    position: relative;
+    bottom: 400px;
+    left: 525px;
+}
+   
